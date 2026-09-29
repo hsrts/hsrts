@@ -144,7 +144,7 @@ products:
   - {name: Proje Takip, type: Construction progress, progress payment and price escalation tracking, stack: [React, Node.js, PostgreSQL]}
   - {name: Anlarım, type: Event photo sharing via QR, stack: [Next.js, PostgreSQL, Cloudflare R2, iyzico]}
 contact:
-  email: turkuazcode@gmail.com
+  email: halilsrts70@gmail.com
   linkedin: https://www.linkedin.com/in/halil-sar%C4%B1ta%C5%9F-062b0a166/
 ```
 
